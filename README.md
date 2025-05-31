@@ -65,4 +65,4 @@ To build a multi-class classification model that predicts the species of a pengu
 
 ## 🌐 Deployment
 
-👉 **Live Demo:** [Penguin Species Predictor on Hugging Face Spaces] https://huggingface.co/spaces/rohithmasineni/PenguinSpeciesPredictor
+👉 **Live Demo:** Penguin Species Predictor on Hugging Face Spaces https://huggingface.co/spaces/rohithmasineni/PenguinSpeciesPredictor
